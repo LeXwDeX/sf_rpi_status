@@ -26,8 +26,8 @@ dependencies = [
 packages = ["sf_rpi_status"]
 
 [project.urls]
-"Homepage" = "https://github.com/sunfounder/sf_rpi_status"
-"Bug Tracker" = "https://github.com/sunfounder/sf_rpi_status/issues"
+"Homepage" = "https://github.com/LeXwDeX/sf_rpi_status"
+"Bug Tracker" = "https://github.com/LeXwDeX/sf_rpi_status/issues"
 
 [project.scripts]
 sf_rpi_status = "sf_rpi_status:main"
