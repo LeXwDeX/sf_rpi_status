@@ -20,7 +20,7 @@ python3 -m venv venv
 pip3 install build
 
 # Clone the repository
-git clone https://github.com/sunfounder/sf_rpi_status.git
+https://github.com/LeXwDeX/sf_rpi_status.git
 # Activate the virtual environment
 source venv/bin/activate
 # build the package
